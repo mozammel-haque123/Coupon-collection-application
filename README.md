@@ -1,10 +1,11 @@
 # Live Project Links
 
-🔗 **Live link to the server (Firebase):**  
-https://coupons-collecting.firebaseapp.com/
+# 🔥 Live link to the server (Firebase):
+[https://coupons-collecting.firebaseapp.com/](https://coupons-collecting.firebaseapp.com/)
 
-🔗 **Live link to the server (Netlify):**  
-https://precious-cendol-91049f.netlify.app/
+# 🔥 Live link to the server (Netlify): 
+[https://precious-cendol-91049f.netlify.app/](https://precious-cendol-91049f.netlify.app/)
+
 
 ---
 
