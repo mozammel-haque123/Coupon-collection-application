@@ -10,13 +10,13 @@ https://precious-cendol-91049f.netlify.app/
 
 ## 🛠️ Technologies/Features Used
 
-- Firebase Authentication
-- Context API
-- Login Form
-- Register Form
-- Email Verification
-- Marquee (via NPM)
-- Password Reset via Gmail
-- Gmail Notification
-- AOS Animation
+- Firebase Authentication  
+- Context API  
+- Login Form  
+- Register Form  
+- Email Verification  
+- Marquee (via NPM)  
+- Password Reset via Gmail  
+- Gmail Notification  
+- AOS Animation  
 - Open Transaction Feature
