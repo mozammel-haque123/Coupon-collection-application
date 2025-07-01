@@ -1,0 +1,136 @@
+[
+  {
+    "_id": "1a2b3c4d5e",
+    "brand_name": "Daraz",
+    "rating": 4.5,
+    "description": "Bangladesh's leading online marketplace with great deals and fast delivery.",
+    "brand_logo": "https://i.ibb.co/b59hDYKr/942cd32a7949275c592d4d5fe92f93e9.jpg",
+    "coupons": [
+      { "code": "DARAZ100", "discount": "100৳ off", "valid_till": "2025-12-31" },
+      { "code": "FREESHIP", "discount": "Free Delivery", "valid_till": "2025-10-01" }
+    ],
+    "shop_Link": "https://www.daraz.com.bd/#?",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "6f7g8h9i0j",
+    "brand_name": "Evaly",
+    "rating": 3.9,
+    "description": "Online shopping with surprising offers across various categories.",
+    "brand_logo": "https://i.ibb.co/7dfcVQz7/evaly-Logo-2210231242.jpg",
+    "coupons": [
+      { "code": "EVALY50", "discount": "50৳ off", "valid_till": "2025-08-15" }
+    ],
+    "shop_Link": "https://e-valy.com/shops?page=2",
+    "category": "E-commerce",
+    "isSaleOn": false
+  },
+  {
+    "_id": "k1l2m3n4o5",
+    "brand_name": "Chaldal",
+    "rating": 4.7,
+    "description": "Order groceries and essentials from Chaldal within minutes.",
+    "brand_logo": "https://i.ibb.co/Dfytvc5h/chaldal.png",
+    "coupons": [
+      { "code": "CHALDAL30", "discount": "30৳ off", "valid_till": "2025-11-30" },
+      { "code": "GROCERY5", "discount": "5% off on groceries", "valid_till": "2025-09-01" }
+    ],
+    "shop_Link": "https://chaldal.com/?srsltid=AfmBOopOKhX0aXmPkw5-x9qKmbrQUBk_bf6lLfRWstx93UEB4Auwxr1b",
+    "category": "Grocery",
+    "isSaleOn": true
+  },
+  {
+    "_id": "p6q7r8s9t0",
+    "brand_name": "Foodpanda",
+    "rating": 4.3,
+    "description": "Get food from your favorite restaurants delivered to your doorstep.",
+    "brand_logo": "https://i.ibb.co/99Mq5nwy/995924934504adab7c1a9780bad8319c.jpg",
+    "coupons": [
+      { "code": "PANDA50", "discount": "50৳ off", "valid_till": "2025-09-30" },
+      { "code": "LUNCH20", "discount": "20% off on lunch orders", "valid_till": "2025-07-31" }
+    ],
+    "shop_Link": "https://www.foodpanda.com.bd/?utm_source=google&utm_medium=cpc&utm_campaign=16391559031&sem_tracker=16391559031&gad_source=1&gad_campaignid=16391559031&gbraid=0AAAAADiVv6OuGhTLAJ34u3GNjQc3dMhuk&gclid=Cj0KCQjw097CBhDIARIsAJ3-nxe-_gCwEXJEaZRSWDzLx6P3s5LAqhNbdD9XHy1NEdPseje57w1uWsUaAgYJEALw_wcB",
+    "category": "Food Delivery",
+    "isSaleOn": true
+  },
+  {
+    "_id": "u1v2w3x4y5",
+    "brand_name": "Pathao",
+    "rating": 4.2,
+    "description": "Ride sharing, parcel delivery, and food all in one app.",
+    "brand_logo": "https://i.ibb.co/W4SHK3P6/0d335fdf166d0af5457f2bbe0c3c15ae.jpg",
+    "coupons": [
+      { "code": "RIDE20", "discount": "20% off on first ride", "valid_till": "2025-08-01" }
+    ],
+    "shop_Link": "https://pathao.com/bn/",
+    "category": "Transport",
+    "isSaleOn": false
+  },
+  {
+    "_id": "z6a7b8c9d0",
+    "brand_name": "Pickaboo",
+    "rating": 4.6,
+    "description": "Get the latest tech gadgets and accessories at unbeatable prices.",
+    "brand_logo": "https://i.ibb.co/BVqCJX0Q/images.png",
+    "coupons": [
+      { "code": "TECH10", "discount": "10% off on electronics", "valid_till": "2025-12-01" },
+      { "code": "FASTSHIP", "discount": "Free Fast Delivery", "valid_till": "2025-07-20" }
+    ],
+    "shop_Link": "https://www.pickaboo.com/?srsltid=AfmBOopTory-QBdBgqo0xRmXRKL8V7XlnWV7Wf65mzt6wgyJCehJ6bkK",
+    "category": "Electronics",
+    "isSaleOn": true
+  },
+  {
+    "_id": "e1f2g3h4i5",
+    "brand_name": "Ajkerdeal",
+    "rating": 4.1,
+    "description": "Bangladesh's first online shopping mall for everyday deals.",
+    "brand_logo": "https://i.ibb.co/Qv94QghR/images-1.png",
+    "coupons": [
+      { "code": "DEAL20", "discount": "20৳ off on all items", "valid_till": "2025-08-30" }
+    ],
+    "shop_Link": "https://ajkerdeal.com/aboutus.aspx",
+    "category": "E-commerce",
+    "isSaleOn": false
+  },
+  {
+    "_id": "j6k7l8m9n0",
+    "brand_name": "Rokomari",
+    "rating": 4.8,
+    "description": "Buy books, electronics, and educational tools online.",
+    "brand_logo": "https://i.ibb.co/4gW5rtRv/rkmaari.png",
+    "coupons": [
+      { "code": "BOOK10", "discount": "10% off on books", "valid_till": "2025-10-10" }
+    ],
+    "shop_Link": "https://www.rokomari.com/book",
+    "category": "Books",
+    "isSaleOn": true
+  },
+  {
+    "_id": "o1p2q3r4s5",
+    "brand_name": "Uber",
+    "rating": 4.4,
+    "description": "Book your ride fast and safely through Uber Bangladesh.",
+    "brand_logo": "https://i.ibb.co/MDdqKSjg/download.png",
+    "coupons": [
+      { "code": "UBERBD", "discount": "৳100 off first 3 rides", "valid_till": "2025-09-01" }
+    ],
+    "shop_Link": "https://www.uber.com/bd/en/",
+    "category": "Transport",
+    "isSaleOn": true
+  },
+  {
+    "_id": "t6u7v8w9x0",
+    "brand_name": "Bikroy",
+    "rating": 3.8,
+    "description": "Buy and sell products through Bangladesh's largest classifieds site.",
+    "brand_logo": "https://i.ibb.co/YTLTMq1F/download.jpg",
+    "coupons": [
+      { "code": "POSTFREE", "discount": "Free premium post", "valid_till": "2025-11-01" }
+    ],
+    "shop_Link": "https://bikroy.com/",
+    "category": "Marketplace",
+    "isSaleOn": false
+  }
+]

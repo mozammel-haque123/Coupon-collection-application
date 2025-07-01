@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Cotton fabric T-shirt",
+    "category": "T-SHIRT",
+    "sizes": ["S", "M", "XL"],
+    "price": 120,
+    "oldPrice": 130,
+    "badge": "TRENDING",
+    "imageDefault": "https://i.ibb.co/rjg9pkD/4e42f6a774f58fdaf8fb0a2d615e1bf9.jpg",
+    "imageHover": "https://i.ibb.co/DHmq7PMj/ea51b3f9305bb066f1c4499e83ec116f.jpg",
+    "colors": ["#E0DFFF", "#F2C1C1", "#C6F2C2"]
+  },
+  {
+    "id": 2,
+    "title": "Minimalist White Hoodie",
+    "category": "HOODIE",
+    "sizes": ["M", "L", "XL"],
+    "price": 85,
+    "oldPrice": 100,
+    "badge": "NEW",
+    "imageDefault": "https://i.ibb.co/2YhCbkk9/029627f9b9adf97d45e5e48ace233933.jpg",
+    "imageHover": "https://i.ibb.co/Q3f24J7q/881e50111ccbb0435d5be67d300f97a9.jpg",
+    "colors": ["#FFFFFF", "#DDDDDD", "#CFCFCF"]
+  },
+  {
+    "id": 3,
+    "title": "Graphic Printed Tee",
+    "category": "T-SHIRT",
+    "sizes": ["S", "M", "L"],
+    "price": 95,
+    "oldPrice": 110,
+    "badge": "HOT",
+    "imageDefault": "https://i.ibb.co/0ym9BxBh/fc90afd6218b5c34392d4971bfb02774.jpg",
+    "imageHover": "https://i.ibb.co/dJxRBV6n/60370fb574ad9a321ba8613f3d8b6093.jpg",
+    "colors": ["#FFCCCC", "#FFB6C1", "#FFDAB9"]
+  },
+  {
+    "id": 4,
+    "title": "Oversized Streetwear Tee",
+    "category": "T-SHIRT",
+    "sizes": ["L", "XL", "XXL"],
+    "price": 140,
+    "oldPrice": 160,
+    "badge": "LIMITED",
+    "imageDefault": "https://i.ibb.co/1GTYSz6J/7def0f0beeb83a6e6504c1879b40ecaa.jpg",
+    "imageHover": "https://i.ibb.co/G4RrHRZp/f064962c34e3bda33b60a750fda60736.jpg",
+    "colors": ["#B0E0E6", "#ADD8E6", "#87CEFA"]
+  },
+  {
+    "id": 5,
+    "title": "Classic Black Polo",
+    "category": "POLO",
+    "sizes": ["M", "L", "XL"],
+    "price": 110,
+    "oldPrice": 125,
+    "badge": "TRENDING",
+    "imageDefault": "https://i.ibb.co/PvmWg9pV/a09821077d596c01bfdefa6bcaa7bd35.jpg",
+    "imageHover": "https://i.ibb.co/6Rf9qHJ9/527d56e076c235a3f81968aec9decaeb.jpg",
+    "colors": ["#000000", "#333333", "#666666"]
+  }
+]

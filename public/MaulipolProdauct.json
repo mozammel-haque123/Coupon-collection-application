@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "31 grocery customer service stats know in 2025.",
+    "category": "Grocery",
+    "date": "Mar 09, 2025",
+    "imageDefault": "https://i.ibb.co/8D2SD54K/8ff69d3694943e573ba0caa41b526166.jpg",
+    "imageHover": "https://i.ibb.co/wrCNSjJz/6ca8f02f56d48f0daf38063da995e763.jpg",
+    "link": "/blog/1"
+  },
+  {
+    "id": 2,
+    "title": "How to boost eCommerce growth with customer service.",
+    "category": "E-Commerce",
+    "date": "Feb 20, 2025",
+    "imageDefault": "https://i.ibb.co/XrnMt7RB/d9c9ca3071f052121f8c70ccd8b0e89b.jpg",
+    "imageHover": "https://i.ibb.co/F4K80DPw/9c2e3825481bc2f4f15d19384df2e382.jpg",
+    "link": "/blog/2"
+  },
+  {
+    "id": 3,
+    "title": "Top retail trends that will shape 2025 and beyond.",
+    "category": "Retail",
+    "date": "Jan 12, 2025",
+    "imageDefault": "https://i.ibb.co/RGmPd2WT/ef24029c246aae6767d92107114b2588.jpg",
+    "imageHover": "https://i.ibb.co/kg4vn2z8/9b5ad1141bac0e51cdb3b1f0131607d1.jpg",
+    "link": "/blog/3"
+  },
+  {
+    "id": 4,
+    "title": "What customers really want from your support team.",
+    "category": "Customer Service",
+    "date": "Mar 01, 2025",
+    "imageDefault": "https://i.ibb.co/pjcCJkzW/b33b4864d711e00966975ddd2b3db3bc.jpg",
+    "imageHover": "https://i.ibb.co/4wGCcxf7/5e204946fc3779e29db66516410b4fba.jpg",
+    "link": "/blog/4"
+  },
+  {
+    "id": 5,
+    "title": "The ultimate guide to modern grocery delivery.",
+    "category": "Delivery",
+    "date": "Apr 05, 2025",
+    "imageDefault": "https://i.ibb.co/vgHKhT5/7282b9023f6f7f502aac77267af1ce42.jpg",
+    "imageHover": "https://i.ibb.co/wFzRKTkH/a7805aa1dac7259e2471972bf9be52e5.jpg",
+    "link": "/blog/5"
+  }
+]

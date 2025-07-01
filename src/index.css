@@ -1,0 +1,47 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+/* CSS ফাইলে এই স্টাইলগুলো যোগ করুন */
+@keyframes tilt {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(3deg); }   /* ডান দিকে হেলানো */
+  75% { transform: rotate(-3deg); }  /* বাম দিকে হেলানো */
+}
+
+.tilt-animation {
+  animation: tilt 4s infinite ease-in-out;
+  transform-origin: center center; /* ঘূর্ণনের কেন্দ্রবিন্দু */
+}
+
+.active{
+background-color: black;
+color: white;
+}
+
+
+@keyframes jumpFade {
+  0% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  50% {
+    transform: translateY(-20px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 0;
+  }
+}
+
+.animated-letter {
+  display: inline-block;
+  animation: jumpFade 0.7s forwards;
+  transform-origin: bottom center;
+}
+
+
+/* স্ক্রল স্মুথ করার জন্য */
+html {
+  scroll-behavior: smooth;
+}
